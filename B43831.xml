@@ -1,0 +1,622 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The disloyal actings of the Bermuda Company in London by their keeeping [sic] back a petition presented (from the General Assembly in the said islands, convented together there, according to the laws of the said company) to the Kings Most Excellent Majesty.  With several grievances, petitions, and papers; as will more at large appear in the following narrative, shewing the great oppressions the poor inhabitants in the said islands do groan under, by the arbitrary government of the Somer-Islands Company: in all humility presented to the honourable, the knights, citizens, and burgesses assembled in Parliament, craving from them to be relieved from the aforesaid and following oppressions / by William Righton.</title>
+            <author>Righton, William.</author>
+         </titleStmt>
+         <extent>Approx. 57KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43831</idno><idno type="EEBO-CITATION">489265446</idno>
+  <idno type="VID">208697</idno>
+  <idno type="EEBO-PROQUEST">2240896077</idno>
+  
+            <idno type="OCLC"> 489265446</idno>
+            <idno type="OCLC">ocn 489265446</idno>
+            <idno type="STC">Wing R1512C</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43831)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 208697)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2956:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The disloyal actings of the Bermuda Company in London by their keeeping [sic] back a petition presented (from the General Assembly in the said islands, convented together there, according to the laws of the said company) to the Kings Most Excellent Majesty.  With several grievances, petitions, and papers; as will more at large appear in the following narrative, shewing the great oppressions the poor inhabitants in the said islands do groan under, by the arbitrary government of the Somer-Islands Company: in all humility presented to the honourable, the knights, citizens, and burgesses assembled in Parliament, craving from them to be relieved from the aforesaid and following oppressions / by William Righton.</title>
+                  <author>Righton, William.</author>
+                  <author>Bermuda Islands. House of Assembly.</author>
+               </titleStmt>
+               <extent>[4], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>For J. Robinson],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, MDCLXXVIII. [1678]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and printer of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: New York Public Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Bermudas Company for the Plantation of the Somers Islands.</term>
+               <term type="geographic_name">Great Britain --  Colonies --  Administration --  Early works to 1800.</term>
+               <term type="geographic_name">Bermuda Islands --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:208697:1"/>
+            <pb facs="tcp:208697:2"/>
+            <p>THE DISLOYAL ACTINGS OF THE BERMUDA COMPANY IN LONDON, By their keeping back a PETITION Presented (from the General ASSEMBLY in the said Islands, convented together there, according to the Laws of the said COMPANY) to the Kings Most Excellent Majesty.</p>
+            <p>With several Grievances, Petitions, and Papers, as will more at large appear in the following Narrative, shewing the great oppressions the poor Inhabitants in the said Islands do groan under, by the ARBITRARY <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>OVERNMENT of the <hi>SOMER-ISLANDS</hi> COMPANY:</p>
+            <p>In all humility presented to the Honourable, the Knights, Citizens, and Burgesses ASSEMBLED in PARLIAMENT, craving from them to be relieved from the aforesaid and following OPPRESSIONS.</p>
+            <p>By <hi>WILLIAM RIGHTON.</hi>
+            </p>
+            <p>Printed in the Year, MDCLXXVII.</p>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:208697:3"/>
+            <pb facs="tcp:208697:3"/>
+            <head>THE CONTENTS.</head>
+            <list>
+               <item>1. <hi>A Petition presented from the Assembly, to the Kings most Excellent Majesty.</hi> Page 1.</item>
+               <item>2. <hi>A Petition presented from the Assembly to the Company.</hi> p. 3.</item>
+               <item>3. <hi>Several Grievances from the Assembly to the Company.</hi> p. 5.</item>
+               <item>4. <hi>A Petition of Six Inhabitants to Sir.</hi> John Heydon <hi>Go<g ref="char:EOLhyphen"/>vernour.</hi> p. 13.</item>
+               <item>5. <hi>A Petition of</hi> 23 <hi>of the Assembly, presented to the Com<g ref="char:EOLhyphen"/>pany.</hi> p. 14.</item>
+               <item>6. <hi>A Petition presented to the King in Council, by four Peti<g ref="char:EOLhyphen"/>tioners,</hi> &amp;c. p. 15.</item>
+               <item>7. <hi>AN Answer made by the Company to that Petition pre<g ref="char:EOLhyphen"/>sented to the King.</hi> p. 18.</item>
+               <item>8. <hi>An Answer, by Reply, to the said Companies Petition to the King.</hi> p. 19.</item>
+               <item>9. <hi>A Paper Printed by the said Company, to misinform the world.</hi> p. 22.</item>
+               <item>10. <hi>An Answer to the said Paper, to undeceive the world.</hi> p. 23.</item>
+               <item>11. <hi>All presented to the Parliament, craving from them re<g ref="char:EOLhyphen"/>lief.</hi> p. 26.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:208697:4"/>
+            <pb n="1" facs="tcp:208697:4"/>
+            <head>To the Kings Most Excellent Majesty: The Humble Petition of the General Assembly, the representative body of the <hi>Somer-Islands</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>WHereas your Royal Majesties Predecessor, King <hi>James</hi> of Blessed memory, did by His Gracious Letters Pa<g ref="char:EOLhyphen"/>tents on the 29th day of <hi>June,</hi> in the Thirteenth year of His Reign of <hi>England, &amp;c.</hi> give and grant unto the first Proprietors of these Islands, by the name of the Treasurer and Company of the <hi>Somer-Islands,</hi> many Pri<g ref="char:EOLhyphen"/>viledges, Liberties and Immunities, with several bounds and limitations, for the making and alterations of Laws absolutely necessary for the being and well-being of these Islands, and the Inhabitants thereof; which Proprietors consisting of the Nobility and Gentry of the Realm of <hi>England,</hi> did in the 18th year of His said Majesties Reign, make and ordain several good and wholsom Laws according to the said Letters Patents, which were to be kept by them and their successors inviola<g ref="char:EOLhyphen"/>ble; Printed, <hi>Anno. Dom.</hi> 1622: to the which, reference being had, may more plainly appear; whereby they were obliged to maintain and defray the publick charges of these Islands, out of the Publick Lands which his said Majesty had granted to them, their Heirs and Successors. Since which time, part of the interest of these Islands, being alienated amongst some few Traders and Mechanicks, with whom self-interest being more prevalent than publick good, they have infringed your Maje<g ref="char:EOLhyphen"/>sties Laws, and broken the said Letters Patents, despised the said good and wholsom Book of Laws, the Acts of their Progenitors, imposing on us your Majesties free-born and most Loyal Subjects, their Arbitrary Commands and Injunctions, deposing us of our Birthrights and Privi<g ref="char:EOLhyphen"/>ledges, forbidding to Trade for any Commodities that they send not in their Ship, which is but once in a year; inhancing their goods to such excessive rates, that they have our Commodities for almost no<g ref="char:EOLhyphen"/>thing, endeavouring to bring us into greater bondage; unjustly taxing our Tobacco to the one third part of its value, and sometimes more; for which they were to supply us with Ammunition for defence, and Ministers for our instruction; yet have but one Minister in the whole
+<pb n="2" facs="tcp:208697:5"/>Island, where there ought to be five: And the Ammunition and Pro<g ref="char:EOLhyphen"/>vision for defence, was much after the same proportion, although the Imposition they have laid upon one of our Commodities amounteth to near four times the value of the Publick Charges, until your Royal Majesty was graciously pleased, for the safety and security of these Islands, bountifully to supply us; which with all humble and submis<g ref="char:EOLhyphen"/>sive boldness, on the bended knees of our Loyal hearts, we most gracefully acknowledg; resolving in the Power of God, whilst we have Limbs or Life, against all your Majesties Enemies, to defend and keep this poor, yet not inconsiderable Island: our bounden duty to your sacred Majesty, the honour of our Nation, and the respect to our selves and Families, obligeth us thereunto; although we have other<g ref="char:EOLhyphen"/>wise small encouragement, labouring under such insupportable burthens and grievances, which we have from time to time laid upon us by those who in duty were obliged to have relieved us, and from whom can have no remedy:</p>
+            <p>Wherefore most dear and dread Soveraign, we your Majesties poor Pe<g ref="char:EOLhyphen"/>titioners, knowing your Royal Majesties Heart, and the Acts of your Majesties Royal Favour and Grace, is like Fire and Air, common to all your Majesties Loyal Subjects, have taken this boldness; our great necessities compelling us to seek redress from your gracious Majesties hand, who are the true pattern of vertue and goodness to all your Majesties Subjects. The Right Honourable <hi>Anthony</hi> Earl of <hi>Shaftsbury,</hi> &amp;c. our Honourable Governour, is able more par<g ref="char:EOLhyphen"/>ticularly to inform your Majesty of our deplorable condition; humbly, and earnestly deploring your most sacred Majesties gracious assistance, to succour us in our extremity, and to pardon our rude Lines, as coming from poor distressed Planters, who are confident of nothing more, than that we are, and desire always to be</p>
+            <closer>
+               <signed>Your most Excellent Majesties most humble, most obedient, and most faithful Subjects.</signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The which said Petition was signed by the whole Assembly; but the said Company stifted it, and never delivered it to the Kings Most Excellent Majesty.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <pb n="3" facs="tcp:208697:5"/>
+            <head>To the Right Honourable, and Honourable, The Company of the <hi>Somer-Islands.</hi> The Humble Petition of the General Assembly, Convened in the <hi>Somer-Islands, August</hi> the <hi>11th, 1673.</hi>
+            </head>
+            <opener>Humbly sheweth,</opener>
+            <p>WHereas there have been several General Assemblies, who from time to time have presented the Grievances of these Islands to your Honours, but could never find redress of those burthens, taxes, and impositions, which have been laid upon us His Majesties free<g ref="char:EOLhyphen"/>born Subjects; but still instead of relief (through the crafty designs, and sinister practices of some self-interested persons, as we conceive) have received a greater addition of misery, to the almost ruine of us the Inhabitants of these Islands, contrary to the Kings Letters Patents, and the good and wholsom Book of Laws, Printed <hi>Anno.</hi> 1622, whereby the Company is obliged, and provision made to defray the publick charges of these Islands, and to provide for us both Ammuni<g ref="char:EOLhyphen"/>tion, Ministers, and Collony-Servants, <hi>&amp;c.</hi> which continually of late have been wanting; for until His Majesty of his free grace and good will, was graciously pleased to supply us; upon strict search, by per<g ref="char:EOLhyphen"/>sons thereunto appointed, before the arrival of this Magazeen Ship, there was not two rounds of Powder in the whole Country; and not one third part of small Arms for the Inhabitants, although there hath been extorted from us near four times the value of our Publick Char<g ref="char:EOLhyphen"/>ges; of which, although we are part of the Successors and Assigns of the first Proprietors, yet have no account, nor of the disposal of our own Moneys: whereby His Majesties Island was laid open to the violence of a foreign Enemy, to the endangering of the loss of these Islands, and of the Lives and Liberties of us His Majesties most faithful and obedient Subjects. And whereas there ought to be five Ministers maintained in this Island, we enjoy but one; and these publick Lands which were appointed for the defraying of Publick Charges, are disposed-of con<g ref="char:EOLhyphen"/>trary to the Kings Majesties intention, in His gracious Letters Patents, and Orders in the good and wholsom Printed Book of Laws: and by the last Letters from the Company, we are commanded at our own charges to build a Fort, notwithstanding by unjust Taxes, Impositions,
+<pb n="4" facs="tcp:208697:6"/>and Injuries, we are so impoverished we cannot; and for such works there is other provision made, by His Majesty and the Honourable Company; and therefore from such illegal and rigorous dealing, we cannot conclude otherwise, than that some interessed particular persons of the Honourable Company, for their own private gain, value not the ruine of the whole Island.</p>
+            <p>Wherefore upon mature deliberation, and serious consideration, we do humbly present our Grievances, with our several Acts, for your approbation and consent, which we judge the only way, through Gods blessing, to secure the honour and interest of our dread Soveraign, and establish the welfare of these Islands; and we also desire to acknowledg the never-to-be-forgotten obligation from us, to the Right Honourable part of the Company, we mean the Nobility and Gentry, and also some worthy Persons of the Honourable Company, in their tender Respects towards our liberties, priviledges, and welfare; who also have been abused by those, who in honour and duty were obliged to act at another rate; we mean some particular persons of the trading-party, whose names at present we shall keep in silence, hoping their amend<g ref="char:EOLhyphen"/>ment; to whom we particularly request, if they have any respect to the Glory and Justice of God, who beholds the oppressors and the oppressed, and heareth the cry of the poor and needy, and in his due time will deliver them: if the Interest and Honour of His most gracious Majesty our dread Soveraign may oblige you; if you have any bowels of love to your Brethren, your fellow Subjects, and to the welfare of these Islands; we upon our bended knees, for Gods sake, His Majesties sake, the Islands, your own and our selves sakes, humbly and earnestly beseech you, That you will take what we have proposed, the fruit of this Session, into your seri<g ref="char:EOLhyphen"/>ous consideration; and laying aside all by-respects and self-interest, confirm our Acts, and relieve our grievances, that Almighty God may be glorified, His Royal Majesties Honour and Interest main<g ref="char:EOLhyphen"/>tained and preserved, and these Islands advantaged, and not in<g ref="char:EOLhyphen"/>thralled to any particular persons will and interest; and that you would comply with the truly honourable part of the Company, of the testimony of whose love and good will, we are often made sensible.</p>
+            <p>
+               <hi>And therefore Right Honourable, and Honourable, our humble request is, that you will speedily succour us with such holy, able, peaceable and painful labourers in the word of truth, that may
+<pb n="5" facs="tcp:208697:6"/>break the Bread of life unto us, that we may not have our souls ruined, although our bodies and estates have been enslaved: And also do humbly request that the Treasury and Husbandry of the Company, may not be in the hands of the trading-party; for so long, we suppose, there can be little redress. Thus imploring your Honours inspection and redress, in matters of so great weight and importance, which may conduce by your Honours as<g ref="char:EOLhyphen"/>sistance, to the Glory of God, our Soveraigns interest, your own eternal Honour, and the welfare of these Islands:</hi>
+            </p>
+            <closer>
+               <signed>And your Petitioners, as in duty bound, <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>The which Petition was sent from the whole Assembly in the Islands, but no relief given by the said Company to the Inha<g ref="char:EOLhyphen"/>bitants.</hi>
+               </p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <p>WE the General Assembly of the <hi>Somer-Islands,</hi> Convened at St. <hi>Georges,</hi> the 11th of <hi>August, Anno Dom.</hi> 1673; and in the Twenty fifth year of the Reign of our Soveraign Lord King <hi>Charles</hi> the Second, Defender of the Faith, <hi>&amp;c.</hi> to consider such things as may tend to the well-being of the said Islands, and also to prevent, and if by any means possible, to remedy such grievances as do re<g ref="char:EOLhyphen"/>quire speedy redress, having our eyes and hearts to the Glory of God, honour and interest of his Most Gracious Majesty, and respect to the Honourable Company, and welfare of the Plantation,</p>
+            <p>Ʋpon the debating the several Grievances proposed by the Inhabitants:</p>
+            <p>We also earnestly spread before you (the Honourable Company) the gievous Bondage and Thraldom of us most true, and faithful, and free-born Subjects of his Majesty.</p>
+            <p>That all and every of us, lye culpable in our persons and estates, upon the humour and pleasure of every Informer, by Letters or other<g ref="char:EOLhyphen"/>wise, that can obtain an Order from the Company, or a Court, from any seven of the Assistants: And as we are informed, they not being sworn according to the purport of the Kings Majesties Letters Patents,
+<pb n="6" facs="tcp:208697:7"/>and Order in the Printed Book of Laws, where it's appointed that a formal Oath shall be advised and administred to all Officers of the said Company, for the true and faithful execution and performance of their several services, <hi>&amp;c.</hi> And therefore we humbly pray, that all persons concerned in Judgement of our persons and estates, or such like affairs, may, with the rest of the Officers, take the Oath ordered.</p>
+            <p>And whereas many of us, the Freeholders and Inhabitants of these Islands, have been formerly very grievously vexed and endamaged in our persons and Estates, by Illegal Orders from the Court at home, to the ruine of some, and great impoverishment of others, no redress for the same being provided:</p>
+            <p>Be it Enacted, that no Order that is, or shall be sent to these Islands, may compel or inforce us in our bodies or estates to suffer any pain, penalty, damage, or forfeiture, without a legal tryal in these Islands, according to his Majesties Laws, by Twelve of our Peers or Vicinity.</p>
+            <p>And seeing it hath pleased his Majesty King <hi>James</hi> of blessed memo<g ref="char:EOLhyphen"/>ry, by his Letters Patents, to make us a free people; and it hath seemed also good to our now dread Soveraign so to account us, ha<g ref="char:EOLhyphen"/>ving suffered many injuries, wrongs, and detriments, both in our Per<g ref="char:EOLhyphen"/>sons and Estates by former deputed Governors, and subordinate Offi<g ref="char:EOLhyphen"/>cers in these Islands, and not having power to redress our selves, and to prevent abuses for the future:</p>
+            <p>Be it Enacted, That all Officers whatsoever resident in these Islands, that have been, are, or hereafter shall be, of what degree soever, may, and shall be liable to any Action or Actions, that may, or ought to be commenced against them; and to make satisfaction to the parties su<g ref="char:EOLhyphen"/>staining wrongs and damages by them, according to the verdict of Twelve men: any former Custom or Usage to the contrary in any wise notwithstanding. Provided always, that the Governour here for the time being, shall not have any Presentment, Action, or Suit, commen<g ref="char:EOLhyphen"/>ced against him during the time of his Government.</p>
+            <closer>
+               <hi>Put to the Vote, and past.</hi>
+               <signed>
+                  <hi>Hammond Johnson</hi> Clerk to the Assembly.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="7" facs="tcp:208697:7"/>
+            <p>WHereas it hath seemed good to his Gracious Majesty King <hi>James</hi> of Blessed memory, to signifie his especial care, and Royal will and pleasure, that the People and Inhabitants of this Island (the Royal Subjects of him and his Successors) should inviolably en<g ref="char:EOLhyphen"/>joy those liberties and priviledges, by his Majesty granted in his gra<g ref="char:EOLhyphen"/>cious Letters Patents, which are the Forts and Bull-works to repell the Invasion of all unjust Impositions and Oppressions, as in his said Letters Patents, reference thereunto being had, may more evidently appear; That one part of this Land, not exceeding the fourth part, shall be al<g ref="char:EOLhyphen"/>lotted, and reserved to the Company in common, for the maintenance and defraying of the Publick Charges of these Islands; and the re<g ref="char:EOLhyphen"/>mainder of the Profits, after the said Publick Charges are defrayed, to be divided amongst the several Members of the said Company, accord<g ref="char:EOLhyphen"/>ing to the proportion of each mans several shares and parts, <hi>&amp;c.</hi> which with our humble and thankful acknowledgment of his Majesties Grace we duly respect; although some not weighing their duty and obedience to his Majesties Royal will and pleasure, have illegally exacted one penny <hi>per l.</hi> upon all the Tobacco of the growth of these Islands, com<g ref="char:EOLhyphen"/>ing to his Majesties Realm and Dominions (which is to be feared, hath been a great means to hinder his Majesties Customs) contrary to his Majesties gracious Laws and Intentions; and also disposing of the a<g ref="char:EOLhyphen"/>foresaid Lands and Hereditaments, by his Majesty appropriated to Pub<g ref="char:EOLhyphen"/>lick uses, according to their own wills and interest; which said penny <hi>per l.</hi> hath amounted to near four times the value of the Publick Charges of this Island, the Island yielding some years 300000 <hi>l.</hi> of Tobacco and upwards; which said Imposition, being the third part of our Commodity, sometimes more, even when it hath not yielded our Charges, we have been forced to pay the said exaction to our woful damage.</p>
+            <p>And it being an unjust Imposition upon our Estates, directly contra<g ref="char:EOLhyphen"/>ry to the Kings Letters Patents, the Honourable Companies Printed Book of Laws, and directly against, and repugnant to the Grand Char<g ref="char:EOLhyphen"/>ter of <hi>England;</hi> which provideth that no man shall be amerced in his Estate, without his consent by due course of Law.</p>
+            <p>And although we the Inhabitants of this Island, are Members of the said Company, yet never have received any account, according to his Majesties gracious intent and order in the Printed Book of Laws; it being a very great oppression, especially to the poor Planters, who have it taken out of their own hard Labour: And further, notwith<g ref="char:EOLhyphen"/>standing
+<pb n="8" facs="tcp:208697:8"/>this grievous imposition, we receive not the supply of Arms, Ammunitions, Ministers, Servants for Governours, and Sheriffs, Secre<g ref="char:EOLhyphen"/>taries, Captains, and all other Officers, according to the Honourable Companies own Book of Laws. Therefore to prevent the Judgments of God, and the ruine of these Islands, and for the forementioned and di<g ref="char:EOLhyphen"/>vers other weighty reasons and considerations, we do Enact; and there<g ref="char:EOLhyphen"/>fore</p>
+            <p>Be it Enacted by this present General Assembly, That whereas there hath been an unjust Imposition and Exaction by some Members of the Company, of one penny <hi>per</hi> pound, of all Tobaccoes coming from this Island, of the growth of this Island, that no person or persons whatso<g ref="char:EOLhyphen"/>ever shall presume to ask, demand, or receive any Imposition of any person whatsoever, by vertue of any former Custom, Colour, Or<g ref="char:EOLhyphen"/>der or pretence whatsoever, for Tobacco of the growth of this Island, coming to the Realm of <hi>England,</hi> contrary to His Majesties Letters Pa<g ref="char:EOLhyphen"/>tents, the Honourable Companies Book of Laws, upon the penalty His Gracious Majestie hath provided in such like Cases.</p>
+            <closer>
+               <hi>Put to the Vote, and past.</hi>
+               <signed>
+                  <hi>Hammond Johnson</hi> Clerk to the Assembly.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <p>WHereas many of His Majesties Subjects, and our loving Friends, sailing to and fro near these Islands, would with their Ships put in here to the relief of their wants, the interest and advantage of the Inhabitants, to take refreshments; but whereas the Port-charges are so great and unreasonable upon all Ships putting in here, though but for Water or Provisions, that they are many times willing to run the adventure of the loss of their Ships, and great misery of themselves: For the which reasons, and divers other good considerations, we do Enact, and by the power and authority of this present Assembly,</p>
+            <p>Be it Enacted, That any Ship or Ships coming into these Islands for refreshment, shall pay no Port-charges save Pilotage, and the Tolage for Water and Wharfage, unless the said Ship Trades for any thing save for
+<pb n="9" facs="tcp:208697:8"/>relief and refreshments; any Act, Order, or Custom to the contrary in any wise notwithstanding.</p>
+            <closer>
+               <hi>Put to the Vote and past.</hi>
+               <signed>
+                  <hi>Hamond Johnson</hi> Clerk to the Assembly.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <p>WE the Committee of Enquiry, being Members of this present As<g ref="char:EOLhyphen"/>sembly, being chosen to take a view of the defects and wants of the Kings Castle and Forts, do give our report as followeth.</p>
+            <div type="defects">
+               <head>The defects of the Kings Castle.</head>
+               <p n="1">1st. We find the Court of Guard and Palisadoes altogether out of repair.</p>
+               <p n="2">2dly. We find the Platforms at the South-west-point, (which we look upon to be of great use) are at present altogether unserviceable.</p>
+               <p n="3">3dly. We find the Roof of the Castle to be altogether unserviceable, it being so leaky, that there is no securing of their small Arms from damage.</p>
+               <p n="4">4thly. We find the Powder-Room much defective.</p>
+               <p n="5">5thly. We find there is wanting upon the lower Platform, Wheels and Carrages for one of the great Guns.</p>
+               <p>We the aforesaid Committe of Enquiry do humbly desire a speedy repair of the defects, and supply of the wants, both of the Kings Castle and Forts; and do humbly present our judgments, for the manner of the repairing of the Court of Guard, Palisadoes, Platforms, and Roof of the Castle.</p>
+               <p n="1">1. We humbly think, that if the Wall of the Court of Guard be made up wholly of Stone, and so the Roof laid upon it, it may be ve<g ref="char:EOLhyphen"/>ry durable; it being so near to the Sea, that the Timber is subject to damage.</p>
+               <p n="2">2. We humbly judge, that there should be a Stone-wall made up against the Palisadoes, brest-high, for security of those that serve with our small Arms, as likewise to make a Port for the playing a Great Gun to clear the Shore.</p>
+               <p n="3">
+                  <pb n="10" facs="tcp:208697:9"/> 3. We humbly think fit, that the Platform at the South-west<g ref="char:EOLhyphen"/>point, should be taken up, and the Rubbish taken away, and the Platform laid upon the Rock, and that there be a Breast-work made there.</p>
+               <p n="4">4. We humbly think fit, that the Roof of the Castle be new Coated with Tarris, Brick, or Lime.</p>
+               <p>Whereas His Sacred Majesty our dread Soveraign, is engaged in a bloody War against the States of the United Provinces, we His Maje<g ref="char:EOLhyphen"/>sties most loyal and obedient Subjects, having due respect to His Maje<g ref="char:EOLhyphen"/>sty, and the welfare of these Islands under the protection of the Al<g ref="char:EOLhyphen"/>mighty, desire to use and improve all lawful ways and means possible for the defence and security of these Islands. Upon an especial view, finding the Castle and Forts of these Islands are much decayed and out of repair, which earnestly calls for, and requires speedy redress; and seeing the means and necessaries for the effecting thereof, must be pur<g ref="char:EOLhyphen"/>chased; and well knowing, that by His Majesties gracious Letters Pa<g ref="char:EOLhyphen"/>tents, and the Honourable Companies Printed Book of Laws, the Proprietors, their Assigns and Successors, are ingaged to defray the publick charges of these Islands; and understanding there are in the possession of the Sheriff of these Islands, some of the Companies Goods (so called): we the Freeholders, Inhabitants of these Islands, being Members of the Company, and their Assigns and Successors, having a real interest in them; do think it meet to Enact, and therefore by this present General Assembly, and by the Power and Authority thereof,</p>
+               <p>Be it Enacted for the present and speedy reparations of the Castle and Forts of these Islands, and other especial and publick services and uses; That whatsoever Goods, Rents, Moneys, Royalties and Commodities, belong to the Publick, NOW in the hands of Mr. <hi>Anthony Joyner</hi> Sheriff of these Islands, shall remain in the possession of the said Sheriff for the present; and to be forthwith laid out for the said needful repa<g ref="char:EOLhyphen"/>rations of the Castle and Forts, and defraying other Publick Charges.</p>
+               <p>Whereas the Ships and Vessels belonging to these Islands, have an unreasonable Imposition, to their great damage, laid upon them, of Pilotage, for the bringing in, and carrying out of the said Ships or Vessels, although the Master or Owner thereof have sufficient abilities in themselves to perform the same; and it is ordered in the Printed Book of Laws, that Officers Fees for their service shall be such, and no other, as shall be Rated and set down by the General Assembly from time to time: Therefore we have thought it meet to Enact, and by the Power and Authority of this present General Assembly,</p>
+               <p>Now Be it Enacted, That any Ship or Vessel belonging to the Inha<g ref="char:EOLhyphen"/>bitants of these Islands, failing out of any of the Ports and Harbours
+<pb n="11" facs="tcp:208697:9"/>thereof, shall not have any Pilot imposed upon them, or pay any Pi<g ref="char:EOLhyphen"/>lotage for the said Ship or Vessel, unless it be the desire of the Master or Owner thereof to have a Pilot to carry out the said Ship or Vessel; but if that Pilot doth come out to Sea without the Bar, to meet any of the said Ships or Vessels coming to these Islands, he shall have 20 <hi>s.</hi> for Pi<g ref="char:EOLhyphen"/>lotage, whether or no the said Ship do accept or refuse it.</p>
+               <p>And further, Be it Enacted by the Authority aforesaid, for divers good and weighty considerations, That no other Port-Charges shall be paid by the Ships or Vessels belonging to these Islands, save Tolage and Wharfage; and the said Pilotage in manner and form aforesaid: any Law, Custom, or Order to the contrary in any wise notwithstanding.</p>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>August the</hi> 23d. 1673.</date>
+                  </dateline>
+                  <hi>The Names of the Governour, and Council, and of the Assembly.</hi>
+                  <signed>
+                     <list>
+                        <item>Sr <hi>John Heydon</hi> Governor.</item>
+                        <item>
+                           <hi>Henry Tucker</hi> Senior.</item>
+                        <item>
+                           <hi>Henry Moore.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Woolrich.</hi>
+                        </item>
+                        <item>
+                           <hi>John Hubbert.</hi>
+                        </item>
+                        <item>
+                           <hi>John Wainright,</hi> Senior.</item>
+                        <item>
+                           <hi>Thomas Wood.</hi>
+                        </item>
+                        <item>
+                           <hi>Jonathan Turner,</hi> Senior.</item>
+                        <item>
+                           <hi>Thomas Leacroft.</hi>
+                        </item>
+                        <item>
+                           <hi>Cornelius White,</hi> Secretary.</item>
+                        <item>
+                           <hi>Charles Whitnall,</hi> Speaker.</item>
+                        <item>
+                           <hi>John Bristow,</hi> Junior.</item>
+                        <item>
+                           <hi>Samuel Brangman.</hi>
+                        </item>
+                        <item>
+                           <hi>Boaz Sharp.</hi>
+                        </item>
+                        <item>
+                           <hi>James Farmer.</hi>
+                        </item>
+                        <item>
+                           <hi>John Welch.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Stowe.</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Sherlock,</hi> Senior.</item>
+                        <item>
+                           <hi>Robert Dickinson.</hi>
+                        </item>
+                        <item>Sir <hi>George Tucker.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Kersey.</hi>
+                        </item>
+                        <item>
+                           <hi>Edward Chaplin.</hi>
+                        </item>
+                        <item>
+                           <hi>George Bascomb.</hi>
+                        </item>
+                        <item>
+                           <hi>William Basdon,</hi> Senior.</item>
+                        <item>
+                           <hi>Philip Lea.</hi>
+                        </item>
+                        <item>
+                           <hi>John Rawlings,</hi> Senior.</item>
+                        <item>
+                           <hi>Nicholas Thorton.</hi>
+                        </item>
+                        <item>
+                           <hi>John Arthur.</hi>
+                        </item>
+                        <item>
+                           <hi>John Stowe.</hi>
+                        </item>
+                        <item>
+                           <hi>John Esquire.</hi>
+                        </item>
+                        <item>
+                           <hi>John Huchins.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Hanger.</hi>
+                        </item>
+                        <item>
+                           <hi>George Hubbard.</hi>
+                        </item>
+                        <item>
+                           <hi>William Milborne.</hi>
+                        </item>
+                        <item>
+                           <hi>Lawrence Dill.</hi>
+                        </item>
+                        <item>
+                           <hi>John Cox.</hi>
+                        </item>
+                        <item>
+                           <hi>John Somerall,</hi> Senior.</item>
+                        <item>
+                           <hi>Richard Jennings</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Peniston.</hi>
+                        </item>
+                        <item>
+                           <hi>Severand Vickers.</hi>
+                        </item>
+                        <item>
+                           <hi>William Righton.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Hall.</hi>
+                        </item>
+                        <item>
+                           <hi>George Ball.</hi>
+                        </item>
+                        <item>
+                           <hi>John Morris,</hi> Senior.</item>
+                        <item>
+                           <hi>William Burch.</hi>
+                        </item>
+                        <item>
+                           <hi>Thomas Foster.</hi>
+                        </item>
+                        <item>
+                           <hi>Richard Matthewlin.</hi>
+                        </item>
+                        <item>
+                           <hi>Nathaniel Butterfield.</hi>
+                        </item>
+                        <item>
+                           <hi>Hammond Johnson,</hi> Clerk of the Assembly.</item>
+                     </list>
+                  </signed>
+                  <pb n="12" facs="tcp:208697:10"/>
+               </closer>
+               <postscript>
+                  <p>Notwithstanding the aforesaid Assemblies Grievances and Petitions did come to the hands of the said Company, (by this remarkable token, That the Deputy of the said Company, <hi>William Webb</hi> Esq by name, said in open Court, That the drawers thereof deserved to be hanged: and the said Mr. <hi>Webb</hi> did further say, That the <hi>Bermudians</hi> had no more to do with <hi>Magna-Charta,</hi> than the Inhabitants of <hi>Brazeel</hi> had; for the King had left the Government wholly to the hands of the Com<g ref="char:EOLhyphen"/>pany): yet the said Company did stifle the said Grievances and Peti<g ref="char:EOLhyphen"/>tions aforesaid, and did deny by their Councel, before the King and Parliament, that there came any such Papers to their hands: and in<g ref="char:EOLhyphen"/>stead of shewing the said Papers, as was desired by those men that knew they received them; the said Company produced before the King and Parliament something that was drawn up by private persons in the Islands, and signed by those of the Assembly; the which Paper com<g ref="char:EOLhyphen"/>ing to hand, with the Assemblies Grievances, made the Right Ho<g ref="char:EOLhyphen"/>nourable, the Earl of <hi>Shaftsbury</hi> (then the present Governour) in open Court, to say, He admired that there should be sent such a Paper in that strange manner, in those words aforesaid, signed by PART OF THE ASSEMBLY.</p>
+                  <p>And let all the unbiassed persons in the World judge, if the <hi>Somer-Islands</hi> Company, (that have acted as they have done in the aforesaid, and following Narrative, as by the Grievances made out, by a Petition lately presented to the Parliament by several Members of the said Com<g ref="char:EOLhyphen"/>pany will most plainly appear) be fitting to Govern any longer the said <hi>Somer-Islands;</hi> nay, rather it is to be desired, that His Majesty would be pleased to send a Governour thither, as he doth to <hi>Barbados, Vir<g ref="char:EOLhyphen"/>ginia,</hi> and all his other Plantations, that all the poor Inhabitants may be redeemed from that <hi>Egyptian</hi> bondage they all now groan under, by the Government of the said Company.</p>
+               </postscript>
+            </div>
+         </div>
+         <div type="petition">
+            <pb n="13" facs="tcp:208697:10"/>
+            <head>A Petition presented to Sir <hi>John Heydon</hi> Governour, by six <hi>Bermudians, 1677.</hi>
+            </head>
+            <head type="sub">To the Honourable Sir <hi>John Heydon</hi> Knight and Governour, with his worthy Council. <hi>Somer-Islands,</hi> April <hi>20. 1677.</hi>
+            </head>
+            <head type="sub">The humble Petition of Captain <hi>John Dorrel,</hi> Senior, Capt. <hi>John Hubbard,</hi> Capt. <hi>George Hubbard,</hi> Lieutenant <hi>Wil<g ref="char:EOLhyphen"/>liam Peniston,</hi> Mr. <hi>William Righton</hi> Senior, and Mr. <hi>William Keele,</hi> in behalf of the rest of the Inhabitants.</head>
+            <opener>Most Humbly sheweth,</opener>
+            <p>THAT your Petitioners understanding that several new Laws are come to your Honours hands, from the Honourable Company, to be put in execution; and knowing by experience that the executi<g ref="char:EOLhyphen"/>on thereof will prove not only prejudicial, but the ruin of the well<g ref="char:EOLhyphen"/>being of the Inhabitants of these Islands; our selves, with several o<g ref="char:EOLhyphen"/>thers, have by the request of the Inhabitants, presented to your Ho<g ref="char:EOLhyphen"/>nour and Council, our humble Addresses to the Honourable Company; therein shewing the misery we lived under several years ago, and must unavoidably live under again, if their new Laws be put in execution; WE in the behalf of the Inhabitants of the whole Islands, humbly beg<g ref="char:EOLhyphen"/>ging your Honour, and Council, to stop the present execution of those new Laws, until the Honourable Companies pleasure is further known in Answer to our Grievances.</p>
+            <closer>
+               <hi>And your Honours Petitioners shall ever pray.</hi>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>John Dorrell,</hi> Senior.</item>
+                     <item>
+                        <hi>John Hubbard.</hi>
+                     </item>
+                     <item>
+                        <hi>George Hubbard.</hi>
+                     </item>
+                     <item>
+                        <hi>William Penistone.</hi>
+                     </item>
+                     <item>
+                        <hi>William Righton,</hi> Sen.</item>
+                     <item>
+                        <hi>William Keele.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb n="14" facs="tcp:208697:11"/>
+            <head>To the Right Honourable the Governour and Company of the <hi>Somer-Islands</hi> Plantation, the Humble Petition of the Inha<g ref="char:EOLhyphen"/>bitants of the <hi>Somer-Islands,</hi>
+            </head>
+            <opener>Most Humbly sheweth,</opener>
+            <p>THAT whereas your Honours have been pleased of late, to make several Laws for the Government and well-being of us the Inha<g ref="char:EOLhyphen"/>bitants in this Island, as you do relate; BUT your Honours living so far distant from us, knowing not so well our condition, as we our selves do; That if those Laws you have lately made, be put in execution, private men may be gainers thereby; BUT the generality of all the Inhabitants shall be brought to the same condition as it was Thirty and odd years ago, Three Men to one Shirt: Therefore we most hum<g ref="char:EOLhyphen"/>bly pray you to consider our Petition, as at large is there set forth, WE flying to your Honours for relief, as Children to their Parents; begging from your Honours, That the Rod may not lye so heavy upon our backs, nor the yoak on our necks, but that we may be relieved from those oppressing By-Laws you have made:</p>
+            <closer>
+               <hi>And we shall ever pray.</hi>
+               <signed>Signed by
+<list>
+                     <item>
+                        <hi>John Dorrell,</hi> Senior.</item>
+                     <item>
+                        <hi>John Stowe.</hi>
+                     </item>
+                     <item>
+                        <hi>Henry Moore.</hi>
+                     </item>
+                     <item>
+                        <hi>Tho. Richards,</hi> Senior.</item>
+                     <item>
+                        <hi>John Hubbard.</hi>
+                     </item>
+                     <item>
+                        <hi>William Penistone.</hi>
+                     </item>
+                     <item>
+                        <hi>William Righton,</hi> Sen.</item>
+                     <item>
+                        <hi>Edward Chaplin.</hi>
+                     </item>
+                     <item>
+                        <hi>George Bauscomb.</hi>
+                     </item>
+                     <item>
+                        <hi>William Williams.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony Penistone.</hi>
+                     </item>
+                     <item>
+                        <hi>Nicholas Thorne.</hi>
+                     </item>
+                     <item>
+                        <hi>Jonathan Turner.</hi>
+                     </item>
+                     <item>
+                        <hi>George Hubbard.</hi>
+                     </item>
+                     <item>
+                        <hi>John Hutchings.</hi>
+                     </item>
+                     <item>
+                        <hi>William Keele.</hi>
+                     </item>
+                     <item>
+                        <hi>Samuel Evans.</hi>
+                     </item>
+                     <item>
+                        <hi>John Squire.</hi>
+                     </item>
+                     <item>
+                        <hi>William Burch.</hi>
+                     </item>
+                     <item>
+                        <hi>Thomas Forster.</hi>
+                     </item>
+                     <item>
+                        <hi>Paul Trimingham.</hi>
+                     </item>
+                     <item>
+                        <hi>Edward Sherlock.</hi>
+                     </item>
+                     <item>
+                        <hi>Anthony White.</hi>
+                     </item>
+                  </list>
+               </signed>
+               <pb n="15" facs="tcp:208697:11"/>
+            </closer>
+            <postscript>
+               <p>BUT notwithstanding the abovesaid Petition was received by the said Company, and the former Petitions, and the Assemblies Grievan<g ref="char:EOLhyphen"/>ces, Printed as aforesaid; all of them craving from the said Compa<g ref="char:EOLhyphen"/>ny, to be relieved from the oppressing Laws and Orders made by them; YET instead of giving relief, they have a late ordered their Governor and Council in the Islands, to put all their Laws in execution forth<g ref="char:EOLhyphen"/>with without dispute; I <hi>William Righton</hi> one of the Petitioners, being at their Courts in <hi>London,</hi> an eye and ear Witness to the same.</p>
+            </postscript>
+         </div>
+         <div type="petition">
+            <head>To the Kings Most Excellent Majesty, <hi>1676.</hi>
+            </head>
+            <head>The Humble Petition of <hi>Perient Trott,</hi> and several other Merchants and Members of the <hi>Bermuda</hi> Company,</head>
+            <opener>Humbly sheweth,</opener>
+            <p>THAT at the Creation of the said Company, about the year 1614, they Traded on a joynt Stock, which was for divers years managed accordingly.</p>
+            <p>THAT the said Stock hath been dissolved near Fifty years since; and your Petitioners have many years been Traders to the said Islands with their own private Stocks, since the dissolution or discontinuance of the said Companies Stock.</p>
+            <p>THAT some of the said Company, on purpose to destroy the Trade to those parts, have made a Law that no Ship should be employ<g ref="char:EOLhyphen"/>ed to those Islands wherein any Member of the said Company hath any interest; and have lately sent out a Ship bound to the said Islands, which was so qualified, refusing to suffer your Petitioners (who are Members of the said Company) to send for their own Commodities of the growth of the said Islands, with their own Ship provided for that purpose, to their great damage and ruine of their Trade.</p>
+            <pb n="16" facs="tcp:208697:12"/>
+            <p> THAT the said Company on their publick account sends but one Ship a year, and that not sufficient to bring away the Crop of To<g ref="char:EOLhyphen"/>bacco in the said Islands; and sometimes they send but one Ship in Two years, to the great loss of the Planters and Merchants, in perish<g ref="char:EOLhyphen"/>ing of their Commodities, and the loss of their Markets, also to the great damage of your Majesty in the loss of your Customs, the Plant<g ref="char:EOLhyphen"/>ers and others being necessitated by such usage, to Ship their Tobacco and Goods on any strange Vessels which happen to touch there, which carry the same to foreign Markets, which otherwise they would not do.</p>
+            <p>THAT the Governor of the said Islands hath Licensed strangers Ships to Trade there, which have carried away great quantities of Tobacco to foreign parts, contrary to several Acts of Parliament, and of which information and complaint was made here in <hi>London</hi> to the said Company, by one of your Petitioners, but they would take no notice of the same.</p>
+            <p>THAT some of your Petitioners have a Ship ready to set sail for the said Islands, as well for the supplying the wants of the Inhabitants, with Commodities from hence, as to re-lade and bring their own Goods, which by the said Company will not be permitted to lode back, contrary to all Law and Reason, and the great hindrance of Na<g ref="char:EOLhyphen"/>vigation, as at large appeareth, by the Affidavit annexed.</p>
+            <p>The premises considered, <hi>May it please your Sacred Majesty, in your great wisdom and wonted goodness, for incouragement of Navigation and your Petitioners in their Trade, to direct, That free-Trade may be allowed to the said Islands, for your Majesties Subjects that are Members of the said Company, and that such By-Laws and Orders that are made by the said Company contrary to Law, may be made void: And that in the mean time the Ship</hi> Charles <hi>of</hi> London, <hi>belonging to some of your Peti<g ref="char:EOLhyphen"/>tioners now Laden, and ready to set sail to the said Islands, may by your Majesty be inabled to Land their Goods in the
+<pb n="17" facs="tcp:208697:12"/>said Islands; and bring from thence into</hi> England <hi>the Com<g ref="char:EOLhyphen"/>modities of the said Islands:</hi>
+            </p>
+            <closer>And your Petitioners as in Duty bound, shall ever Pray, <hi>&amp;c.</hi>
+               <signed>Signed by
+<list>
+                     <item>
+                        <hi>John Wyse.</hi>
+                     </item>
+                     <item>
+                        <hi>George Day.</hi>
+                     </item>
+                     <item>
+                        <hi>Perient Trott.</hi>
+                     </item>
+                     <item>
+                        <hi>Robert Steevens.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <pb n="18" facs="tcp:208697:13"/>
+            <head>To the Kings Most Excellent Majesty.</head>
+            <head type="sub">The Answer of the <hi>Somer-Islands</hi> Company to the Petition of <hi>Perient Trott</hi> and others,</head>
+            <opener>Humbly sheweth,</opener>
+            <p n="1">1. THAT it is true, At the first Creation of the Company, and that for several years after, they Traded in a joynt Stock: That for the conveniency of the Members of the said Company, the Company gave them leave to Trade with their own private Stocks; but still they always managed that Trade, in the Companies general or Magazeen Ships.</p>
+            <p n="2">2. THAT the Company have indeed made a By-Law, That no Ship should be employed as their Magazeen Ship, wherin any Member of the Company hath any share or interest as an owner of it.</p>
+            <p n="3">3. AND they have also made another By-Law, That no Member of the Company shall Trade thither with any private Ships, for Tobac<g ref="char:EOLhyphen"/>co, and freight them there, before the Magazeen Ships are fully freighted.</p>
+            <p n="4">4. AND the Company do conceive that their By-Laws are accord<g ref="char:EOLhyphen"/>ing to Law, and beneficial to Trade, and your Majesties Customs; and necessary, not only to the well-being, but to the very being of the Company: And this they do not doubt, but to make out.</p>
+            <p n="5">5. THAT the Magazeen Ship is very sufficient to bring home the Crop of Tobacco in the said Islands, it being seldom, if EVER, fully freighted; and that Mr. <hi>Trott</hi> have the same liberty with all the rest of
+<pb n="20" facs="tcp:208697:14"/>the Members, of loading his Tobacco on Board the said Ship, as he had also of sending out his goods in the said Ship, she not being a quarter full laden.</p>
+            <p n="6">6. AND for any abuses of the Governour, in the said Island, the Company knoweth nothing of it; but would be very glad to make the discovery, since in their proportions they are the greatest sufferers thereby, in being defrauded of their Duties; whereby they maintain the whole great charge of the Islands and Government.</p>
+            <p>
+               <hi>THE said Company therefore most humbly beseech your Majesty, that in regard the said By-Laws are so necessary for the Company, and not at all prejudicial, but on the contrary, advantageous to Trade and your Majesties Customs, and the good of the Planters in the said Island; That the said Petition be dismissed.</hi>
+            </p>
+            <p>
+               <hi>And the said Company, as in duty bound, shall ever pray.</hi>
+            </p>
+         </div>
+         <div type="reply">
+            <pb n="19" facs="tcp:208697:13"/>
+            <head>
+               <hi>And a Reply made to the said</hi> Somer-Islands <hi>Companies An<g ref="char:EOLhyphen"/>swer. To the King.</hi>
+            </head>
+            <p n="1">1. TO the first Head Answered, That several years after the Com<g ref="char:EOLhyphen"/>pany came into a joynt Stock, one Mr. <hi>Delbridg</hi> a Member of the said Company, did several years send Shipping there on his own ac<g ref="char:EOLhyphen"/>count particularly, as appeareth by the Companies own Records; and so he continued Trading, until Tobacco fell from Half a Crown <hi>per l.</hi> to one Peny <hi>per l.</hi>
+            </p>
+            <p n="2">2. To the second Head, The Company hath made a confession (there needs no other proof) That they have made such a Law, that no Ship shall be sent to the Island, that any Member is owner of any part of her; which, as learned Council affirm, is contrary to <hi>Magna-Charta.</hi>
+            </p>
+            <p n="3">3. To the third Head, The said Company have made a confession, that they have made such a Law, That no Ship shall be sent to the Islands to freight her, before their Magazeen Ship is freighted; BUT the said Company hath ordered the Governour in the <hi>Burmudoes</hi> to un<g ref="char:EOLhyphen"/>load a Members Ship there, though she was loaded there by the Com<g ref="char:EOLhyphen"/>panies own order, and leave obtained from the Government in the said Islands to load her; and they caused all the said goods they had taken out of her, to be put aboard their Magazeen Ship, that did not arrive there until the next year after the time she should have been there, and forced the said Members Ship to return for <hi>England</hi> empty; and the said Company hath sent no Ship thither in above Two years time, and yet forbad a Members Ship to be Loaded there with Tobacco, of the growth of the Island, 1673. she did arrive in the Island, in the time of the late <hi>Dutch</hi> War, 1674; Witness, <hi>Cornelius White</hi> Secretary.</p>
+            <p n="4">4. To the Fourth Head, The Assemblies grievances doth sufficiently disprove their assertion.—And surely Common Reason tells the World, That it is not therefore that their Laws must be good, because they af<g ref="char:EOLhyphen"/>firm them so to be; and necessary, not only to the well-being, but to the very being of the Company: Behold their confidence!</p>
+            <p n="5">5. To the Fifth Head, That oftentimes it is so, that their Magazeen Ship is not big enough to bring away the Tobacco, as by several Wit<g ref="char:EOLhyphen"/>nesses can be proved; BUT were she never so big, Why should
+<pb n="21" facs="tcp:208697:14"/>Strangers Ships be sent to the Island, and of the Members-ships, to bring away the Members own goods; and for strangers to eat the Bread out of the Members mouths, that own the goods? For if any profit be, Why Strangers Ships should be entertained, and the Members Ships for<g ref="char:EOLhyphen"/>bid? for no man sends Ships thither, nor elsewhere, but for an advantage.</p>
+            <p n="6">6. To the Sixth Head, The said Company did know the abuses done by their Governor Sir <hi>John Heydon,</hi> by Letters, and by Articles exhi<g ref="char:EOLhyphen"/>bited against him (and presented, both to the principal Assistants, and to the said Company in Writing; and the discovery was made to the said Company, without their desiring of it) and offered to be made out by several Witnesses.</p>
+            <div type="answer">
+               <head>THE ANSWER to the Companies Prayer.</head>
+               <p>The said Company do desire the aforesaid Petition might be dismissed: it is verily believed they did, and do; BUT is it therefore to be dis<g ref="char:EOLhyphen"/>missed, because the Company pretendedly affirm their Laws are so necessary and advantageous? BUT for the confuting of their affertion, which is groundless, it is desired they will turn to the Assemblies Grie<g ref="char:EOLhyphen"/>vances and Petitions that they received, and also stifled. AND fur<g ref="char:EOLhyphen"/>ther, pray consider if it be not prejudicial to His Majesty in his Cu<g ref="char:EOLhyphen"/>stoms, and also to the Merchants, to have all the years Crop of Tobac<g ref="char:EOLhyphen"/>co imbarqued in one Ship, and so all to be lost (as several times it hath been the case of the Companies Magazeen Ships) or to have the Crop of Tobacco Shipped in several Ships, that if one Ship miscarry, another may come safe; well weigh what is related aforesaid, and then if the Company alter not their mind, it is hoped the unbiassed Reader will see the unreasonableness of their assertion; and further, see the fallacious Answer the said Company hath given to the aforesaid Peti<g ref="char:EOLhyphen"/>tion, presented by Mr. <hi>John Wyse, George Day, Perient Trott,</hi> and <hi>Ro<g ref="char:EOLhyphen"/>bert Steevens,</hi> in the behalf of themselves and others,</p>
+               <closer>To the King's Most Excellent Majesty.</closer>
+            </div>
+         </div>
+         <div type="answer">
+            <pb n="22" facs="tcp:208697:15"/>
+            <head>1. <hi>The Answer of the Bermuda Company to the Matters com<g ref="char:EOLhyphen"/>plained of in the Petition of Mr.</hi> Perient Trott, <hi>humbly of<g ref="char:EOLhyphen"/>fered to the Consideration of the Honourable the Knights, Citizens, and Burgesses Assembled in PARLIAMENT.</hi>
+            </head>
+            <p n="2">2. THE <hi>BERMƲDA</hi> COMPANY having purchased the soyl of the Island, were incorporated in 1614, by the name of the Governour and Company of the City of <hi>London,</hi> for the Plantation of the <hi>Somer-Islands,</hi> and thereby had the sole Government committed to them with Power to make Laws, as near as might be to the Laws of <hi>ENGLAND,</hi> being the same power granted to all His Majesties Foreign Plantations, and the Company are still the Proprie<g ref="char:EOLhyphen"/>tors of the said Islands; and if any By-Laws were made contrary to their power, or prejudicial to the Islands (as is untruly suggested) the Company here must be the great losers.</p>
+            <p n="3">3. THAT no Lands have been taken away from any person with<g ref="char:EOLhyphen"/>out due proceedings, and examination had according to the Laws and Constitutions of the Islands; neither have any Records or due Entries, manifesting any mans Title to the same, been razed or altered; nor hath any person been admitted to any shares in the said Islands, but upon evidence of their right and title to the same.</p>
+            <p n="4">4. THAT the penny in the pound upon Tobacco is a Tax necessa<g ref="char:EOLhyphen"/>ry to support the Charges of the Government, over and above the pub<g ref="char:EOLhyphen"/>lick shares set aside, and now employed for that purpose, and is duly imposed; and for recovery thereof, Actions at Law are brought against the Petitioner Mr. <hi>Trott,</hi> whereby the validity of the said Tax will be tryed.</p>
+            <p n="5">5. AND if the Governour and Council there do impose any As<g ref="char:EOLhyphen"/>sesments upon the Planters without the consent of the Assembly, it is without the knowledg of the Company, and contrary to the known
+<pb n="24" facs="tcp:208697:16"/>Laws of the place, and would be redressed upon complaint made to the Company here.</p>
+            <p n="6">6. THAT the managing of the Trade of Tobacco in the Compa<g ref="char:EOLhyphen"/>nies Magazeen Ship, is necessary for the Proprietors, sufficient for the growth and utmost improvements of the Islands, satisfactory to the Planters, always used since the first purchase of the Lands, and the only way to prevent fraud and oppressions.</p>
+            <p n="7">7. AS to the Whale-fishing, the Company have made a Lease for Ninety nine years to several undertakers, who expended near 4000 <hi>l.</hi> in Boats, Tackle, and other Charges, for carrying on the Trade, and have intrusted some persons under them to manage the same for Five years, and the said Trustees having some ways intrusted Mr. <hi>Trott</hi> there<g ref="char:EOLhyphen"/>in, and the Five years being expired, the said Boats and Tackle was seized at the request, and for the said undertakers, who are the Pro<g ref="char:EOLhyphen"/>prietors and owners of the same, and are under the value of 100 <hi>l.</hi>
+            </p>
+            <p n="8">8. AS to the building of Ships, if the same were not restrained, there would not be Timber left, sufficient for the necessary supply of the Islands.</p>
+            <p n="9">9. AS to Appeals, any person aggrieved may bring the same, un<g ref="char:EOLhyphen"/>less where the Cause of Action is under the value of Five pounds.</p>
+            <p n="10">10. AND ever since the granting of the said <hi>Charter,</hi> the Company have indeavoured to advance the common and publick interest of the Islands, and the Rights of the Proprietors there; and the Islands are now in a more flourishing condition than ever they weer since they were first planted.</p>
+         </div>
+         <div type="answer">
+            <pb n="23" facs="tcp:208697:15"/>
+            <p n="1">1. ANSWER to their first Head, as to the Preamble of the said Companies answer; They deal most disingenuously, in that they mislead the Reader, by Printing <hi>Perient Trott</hi> the sole Petitioner, when as the Petition was in the Names of Mr. <hi>John Wyse, William White, Robert Steevens,</hi> and <hi>Perient Trott,</hi> in the behalf of themselves, and divers others of the said Company, and many of the Planters in the said <hi>Islands,</hi> of which I, <hi>William Righton,</hi> am one.</p>
+            <p n="2">2. To their second Head, They also mislead the Reader, in that they quote that part of the Charter that relates to make Laws, <hi>as near as might be,</hi> to the Laws of <hi>ENGLAND,</hi> which Clause is in re<g ref="char:EOLhyphen"/>lation to Criminal Cases, (as to Mariners and others) but they leave out that part of the Charter, where the King saith positively; <hi>All the Laws they make, must be so ALWAYS, as the same be not contrary to the Laws and Statutes of this our Realm of England:</hi> And further, where<g ref="char:EOLhyphen"/>as they say, The Company are still the proprietors of the said Lands, it is not true; Without they mean the <hi>major</hi> part of them that are owners of near ¾ of the said Lands, that now are livers in the Island, who are become the Heirs and lawful Successors to the first Purchasers, as having bought them out; and if so, then they must be the greatest losers, and not the Company in <hi>England,</hi> that hath few shares of Land to lose in the said <hi>Bermuda.</hi>
+            </p>
+            <p n="3">3. To their third Head, That mens Lands have been given away from the lawful owners thereof, without due process of Law; and contrary to the Laws and orders of the said Company: and men are put into the said Lands, and the said men have sate and voted in their Courts; and the Records have been razed out, both in <hi>England</hi> and in the <hi>Somer-Islands:</hi>
+            </p>
+            <p>Witness to the same <hi>Richard Banner</hi> their Secretary, and several others.</p>
+            <p n="4">4. To the fourth Head, That the Tax of 1 <hi>d per s.</hi> on Tobacco is unnecessary, as by the Assemblies Address to the Company, more at large appeareth; for the King in the Charter, hath set out one 4th part of the said Islands to defray the publick Charges for EVER. And that Actions were entred against Mr. <hi>Trott,</hi> is as true, as they were ne<g ref="char:EOLhyphen"/>ver prosecuted to this day; but entred only, and so Printed, to mis<g ref="char:EOLhyphen"/>lead the Reader, and to make a noise in Coffee-houses.</p>
+            <p n="5">5. To the fifth Head, I, <hi>William Righton</hi> by name, have, time after time, made complaint to the Company, that the Governour and Coun<g ref="char:EOLhyphen"/>cil in the said Island, did impose Assesments on the Inhabitants, and
+<pb n="25" facs="tcp:208697:16"/>they did by force and violence gather the same, without the consent of the Assembly, but never could obtain any relief from the Company here.</p>
+            <p n="6">6. To the sixth Head, PRAY turn to the Assemblies Petition and Address to the Company, and there you may see, how many untruths the Company doth Print in that Head; and surely mens Estates in Two Ships, is safer than in one; and in three, safer than in two; and they send but one Ship a year, though their own Laws bind them to send two at the least yearly: And they put no difference between the Infan<g ref="char:EOLhyphen"/>cy of the Plantation, when there was not in the Island 700 people, and all Tenants; and now there is as many Thousands, and most Free<g ref="char:EOLhyphen"/>holders.</p>
+            <p n="7">7. To the seventh Head, That the <hi>major</hi> part of the Whale-fishers, did let a Lease of the same for Seven years, that might have Leased it out for the Ninety-nine years; and that all the Materials were seized on, and the Company forbid the Whale-fishing, who had not, nor hath now any Interest at all in the Whale-fishing, (they having Leas'd it out for Ninety nine years): And this the Company did (against the mind of the <hi>major</hi> part of the undertakers) as will be made out before a Judge and Jury; and the value of the Materials are above 300 <hi>l. Sterling.</hi>
+            </p>
+            <p n="8">8. To the eighth Head, No use so necessary, as to build Ships, with the Timber of the growth of the Islands, both as to the Act of Navi<g ref="char:EOLhyphen"/>gation, and the Inhabitants interest also.</p>
+            <p n="9">9. To the ninth Head, The Company have ordered the Governour in the Island to deny the due Process of Law, or he doth it on his own head to gratifie them, as appeareth by Appeals lain before the said Company in <hi>London,</hi> and in the Islands, some Twelve years, and some of later date, and no relief can be obtained from the said Company; Wit<g ref="char:EOLhyphen"/>ness <hi>Richard Banner</hi> Secretary.</p>
+            <p n="10">10. To their tenth Head, To confute that, pray turn to what the Assembly saith, and hath Enacted, and in their Petition presented to the Company, but they concealed it; and turn to the Laws they late<g ref="char:EOLhyphen"/>ly made, all which is Printed and presented to the Parliament, and they will sufficiently make out the truth of this Answer: That if the Island<g ref="char:EOLhyphen"/>ers flourished formerly, it was by not putting the Laws in execution; and they are never like to flourish afterwards, if those Laws be ever executed.</p>
+            <p>Let every unbiassed Reader give their Judgments in what the Com<g ref="char:EOLhyphen"/>pany hath Printed, but have proved nothing; and well weigh the An<g ref="char:EOLhyphen"/>swers thereunto made, all which is ready to be proved by several Wit<g ref="char:EOLhyphen"/>nesses: That done, Then what a fallacious, groundless, and pretended
+<pb n="26" facs="tcp:208697:17"/>Answer hath the <hi>Bermuda Company</hi> made in Print to the aforesaid Peti<g ref="char:EOLhyphen"/>tion presented by Mr. <hi>John Wyse, (Viz.)</hi> to the Honourable House of Commons Assembled in Parliament.</p>
+            <p>AND now seeing no relief can be obtained from the said Com<g ref="char:EOLhyphen"/>pany, as it appeareth by the aforesaid Narrative, and that the poor di<g ref="char:EOLhyphen"/>stressed Inhabitants have no remedy left them, but by taking the hum<g ref="char:EOLhyphen"/>ble boldness to fly once more unto the high and honourable House of Commons Assembled in Parliament, beseeching them to consider the miserable and deplorable condition that the poor distressed Inhabitants in the <hi>Somer-Islands</hi> do groan under by the oppressions of the said Company related as aforesaid, and to give such relief, as the Honoura<g ref="char:EOLhyphen"/>ble House of Commons in their great wisdoms shall think fit.</p>
+            <p>
+               <hi>And all the Inhabitants, both Men, Women and Children, shall ever be bound to pray.</hi>
+            </p>
+            <pb facs="tcp:208697:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
